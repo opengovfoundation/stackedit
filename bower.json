@@ -24,7 +24,8 @@
     "crel": "git@github.com:KoryNunn/crel.git#8dbda04b129fc0aec01a2a080d1cab26816e11c1",
     "waitForImages": "git@github.com:alexanderdickson/waitForImages.git#~1.4.2",
     "to-markdown": "git@github.com:benweet/to-markdown.git#jquery",
-    "js-yaml": "~2.1.0"
+    "js-yaml": "~2.1.0",
+    "citation-linker": "*"
   },
   "resolutions": {
     "jquery": "2.0.3"
