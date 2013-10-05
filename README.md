@@ -1,3 +1,24 @@
+# Fork
+
+## Starting the server
+
+Add this to your `bash_profile` or similar:
+
+```sh
+#simple server
+alias server="python -m SimpleHTTPServer"
+```
+
+Then in your `stackedit` folder, just run `server`:
+
+```sh
+$ server
+```
+
+And visit `localhost:8000` in your browser.
+
+<hr />
+
 StackEdit
 =========
 
